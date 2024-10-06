@@ -28,8 +28,8 @@ pip install openpyxl
 ```
 # 1. Usage
 ```bash
-git clone https://github.com/hacker6171/job-application-tracker.git
-cd job-application-tracker
+git clone https://github.com/hacker6171/job-Application-Tracker-Automated-Email-Sending-and-Recruiter-Log.git
+cd job-Application-Tracker-Automated-Email-Sending-and-Recruiter-Log
 ```
 # 2. Configure Email Credentials:
 - Open the send_emails function and replace the placeholder email (your_email@example.com) and password with your own email credentials.
